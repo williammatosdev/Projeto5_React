@@ -1,0 +1,21 @@
+.style{
+    color:red;
+}
+.style0{
+    width: 100%; background-color:yellow; height:80px;
+}
+.style1{
+    font-family: Arial, Helvetica, sans-serif; text-align: center;width: 100vw;padding: 30px;height: 80px;
+}
+.button{
+    margin-bottom: 30px;background-color:gold;
+}
+.bg{
+    background-color: aqua;
+}
+.buton{
+    background-color: red;
+}
+
+
+
